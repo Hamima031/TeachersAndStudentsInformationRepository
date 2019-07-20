@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Teachers And Students Information Repository</string>
+    <string name="first_image_speech">TSIR</string>
+    <string-array name="category">
+        <item>Teachers Information</item>
+        <item>Students Information</item>
+        <item>Stuff Information</item>
+        <item>About</item>
+    </string-array>
+
+    <string-array name="teachers_list">
+        <item>Md.Tofayel Ahmed</item>
+        <item>Khondakar Fida Hasan</item>
+        <item>Dulal Chakborty</item>
+        <item>Md.Imran Hossain</item>
+        <item>Md.Saifur Rahman</item>
+        <item>Md.mehedi Hasan</item>
+        <item>Orvila Sarker</item>
+        <item>Md.Sharif Hossen</item>
+        <item>Sadia Sultana</item>
+        <item>Md.Ariful Islam</item>
+        <item>Md.Rakib Hasan</item>
+        <item>Amena Begum</item>
+    </string-array>
+
+    <string name="about">Teachers and Students Information Repository” is a project that is developed
+        to assign a stable,unique teacher-student identifier.This application can provide proper information about the
+        teachers and students of an institution and also can link up Students with their teachers.
+</string>
+
+    <string name="teacher_one_detail">Md. Tofael Ahmed\n
+            Chairman and Associate Professor\n
+            Email :    tofael_ice_ru@yahoo.com\n
+            Cell Phone :    +8801717671744\n
+            Research Interest:   Online social networks data analysis\n
+                                  \t\tData Mining(Cybersecurity, Big data analysis)\n\t\t
+                                   Data communication, Spam Detection\n
+            Research Work:     Harassment detection in Twitter network\n
+    </string>
+</resources>
